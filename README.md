@@ -1,8 +1,9 @@
-##Olá! Sou Renner Costa 😁
+Olá! Sou Renner Costa 😁
 
-<p>-Atualmente estudando ReactJS + Redux 📚</p>
-
-![Renner Costa GitHub stats](https://github-readme-stats.vercel.app/api?username=rennerCostaa12&show_icons=true&theme=dracula)
+<div style="display: flex;">
+    <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api?username=rennerCostaa12&show_icons=true&theme=dracula&layout=compact" />
+    <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rennerCostaa12&layout=compact&theme=dracula" />
+</div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renner-costa-098a101a0/)
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rennercostaa/)
