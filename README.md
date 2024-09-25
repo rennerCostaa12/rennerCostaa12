@@ -7,5 +7,5 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renner-costa-098a101a0/)
 # Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,nestjs,php,docker,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,react,nextjs,redux,nodejs,nestjs,php,docker,laravel)](https://skillicons.dev)
 
