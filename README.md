@@ -1,4 +1,4 @@
-<h1>Olá! Seja Bem vido 😁</h1>
+<h1>Olá! Seja Bem vindo 😁</h1>
 
 <div style="display: flex;">
     <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api?username=rennerCostaa12&show_icons=true&theme=dracula&layout=compact" />
